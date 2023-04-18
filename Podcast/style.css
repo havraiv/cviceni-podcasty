@@ -1,0 +1,18 @@
+.episode__num {
+  flex: 0 0 auto;
+  font-size: 3rem;
+  font-weight: bold;
+  color: lightblue;
+}
+
+.episode__body {
+  padding: 0.7rem;
+}
+
+.episode__title {
+  font-weight: bold;
+}
+
+.episode__guest {
+  color: #999;
+}
